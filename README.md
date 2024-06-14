@@ -1,5 +1,6 @@
 Python과 Opencv라이브러리를 활용한 이미지 차이 검출
 
+
 이미지 sample을 생성하여 테스트합니다.
 
 # example
@@ -16,3 +17,5 @@ Python과 Opencv라이브러리를 활용한 이미지 차이 검출
 version 1을 기준으로 version 2에서 바뀐 부분을 표시합니다. 
 
 ![diff_image_1](https://github.com/MasterOfAglioEolio/image_comparison/assets/60294084/89154a4f-9ead-43c4-8c57-c905e17c5668)
+
+![image](https://github.com/MasterOfAglioEolio/image_comparison/assets/60294084/ca0f6312-a4c2-4f68-8957-b2f8fd3c62fe)
